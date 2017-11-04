@@ -1,0 +1,31 @@
+@model global::Activator.Dto.ValidationResponse
+
+@{
+    ViewData["Title"] = "Validate Page";
+}
+
+<div class='container-fluid'>
+    <div class='row'>
+        <div class='col-md-6 col-md-offset-3'>                                   
+            <div>                
+                <br />
+                <br />
+                <br />
+                
+                @if (@Model.Success)
+                {
+                    <div class="alert alert-success text-center" role="alert">
+                        <strong>OK</strong> @Model.Message
+                    </div>
+                }
+                else
+                {
+                    <div class="alert alert-danger text-center" role="alert">
+                        <strong>Attenzione</strong> @Model.Message
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>;
+

@@ -1,0 +1,16 @@
+2017-10-24 15:12:57.804 [Information] Configure pipeline started
+2017-10-24 15:13:04.497 [Information] Configure pipeline finished
+2017-10-24 15:13:36.172 [Debug] validating Code: 4116a6c6-6f08-417a-a6c5-aed9acd3ecff
+2017-10-24 15:13:36.244 [Debug] validating result: False - Message: Codice non corretto
+2017-10-24 15:22:07.337 [Information] Configure pipeline started
+2017-10-24 15:22:10.380 [Information] Configure pipeline finished
+2017-10-24 16:10:02.537 [Information] Configure pipeline started
+2017-10-24 16:10:05.800 [Information] Configure pipeline finished
+2017-10-24 16:13:42.975 [Information] Configure pipeline started
+2017-10-24 16:13:46.193 [Information] Configure pipeline finished
+2017-10-24 16:14:45.568 [Debug] validating Code: 4116a6c6-6f08-417a-a6c5-aed9acd3ecff
+2017-10-24 16:14:45.639 [Debug] validating result: False - Message: Codice non corretto
+2017-10-24 16:15:12.497 [Debug] validating Code: 4116a6c6-6f08-417a-a6c5-aed9acd3ecff
+2017-10-24 16:15:12.542 [Debug] validating result: False - Message: Codice non corretto
+2017-10-24 16:24:55.453 [Information] Configure pipeline started
+2017-10-24 16:24:59.348 [Information] Configure pipeline finished
